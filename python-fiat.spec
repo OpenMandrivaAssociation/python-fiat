@@ -4,7 +4,7 @@
 Summary:	FInite element Automatic Tabulator for Python
 Name:		python-%{module}
 Version:	2019.1.0
-Release:	1
+Release:	2
 License:	LGPLv3+
 Group:		Development/Python
 URL:		https://fenicsproject.org
